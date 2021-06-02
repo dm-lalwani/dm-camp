@@ -1,0 +1,16 @@
+.img-responsive{
+	width: 100%;
+}
+
+.thumbnail{
+	padding: 0;
+}
+
+#delete-form{
+	display: inline;
+}
+
+.comment-section{
+	padding-bottom: 20px;
+}
+
